@@ -8,7 +8,6 @@
 
 ## 🌱 Currently ...
 
-* {💜} A full-stack developer for UC Irvine's Commit the Change
 * 🔎 Exploring different software and hardware technologies
 * ♟️ Improving my chess skills
 
