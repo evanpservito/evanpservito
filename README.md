@@ -10,6 +10,7 @@
 
 * 🔎 Exploring different software and hardware technologies
 * ♟️ Improving my chess skills
+* ♻️ A developer for UCI ZotBins
 
 ## 📫 Reach Me @ ...
 * 🟦 [LinkedIn](https://www.linkedin.com/in/evan-servito/)
