@@ -2,7 +2,7 @@
 
 ## 🗒️ About Me ...
 
-* 🏫 Rising senior studying Computer Science & Engineering @ UC Irvine
+* 🏫 Senior studying Computer Science & Engineering @ UC Irvine
 * 🎚️ Music producer & audio engineer
 * 🏙️ Born & raised in Seattle, Washington
 
