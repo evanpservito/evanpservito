@@ -2,15 +2,15 @@
 
 ## 🗒️ About Me ...
 
-* 🏫 Senior studying Computer Science & Engineering @ UC Irvine
+* 🏫 Computer Science & Engineering student @ UC Irvine
 * 🎚️ Music producer & audio engineer
 * 🏙️ Born & raised in Seattle, Washington
 
 ## 🌱 Currently ...
 
-* 🔎 Exploring different software and hardware technologies
+* 🔎 Exploring different software tools and technologies
 * ♟️ Improving my chess skills
-* ♻️ A subgroup lead and developer for UCI ZotBins
+* 🎨 Learning UI/UX design
 
 ## 📫 Reach Me @ ...
 * 🟦 [LinkedIn](https://www.linkedin.com/in/evan-servito/)
